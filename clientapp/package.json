@@ -16,7 +16,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "sirv-cli": "^0.4.4",
     "sweetalert": "^2.1.2"
   }
